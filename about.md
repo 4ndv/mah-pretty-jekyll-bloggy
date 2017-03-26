@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: "/about/"
+permalink: /about/
+published: true
 ---
 
 
@@ -19,3 +20,5 @@ You can find the source code for Jekyll at
 <a href="https://github.com/jekyll/jekyll">jekyll</a>
 
 Hello, world!
+
+Wello, horld!
