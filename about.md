@@ -17,6 +17,8 @@ You can find the source code for the Jekyll new theme at:
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 
+Another test
+
 <a href="https://github.com/jekyll/jekyll">jekyll</a>
 
 Hello, world!
